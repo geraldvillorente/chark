@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/820842/219251559-da832fae-4819-432e-a208-b00ce4d91da3.png)
 
-Minimalist command-line notes manager that interacts with MacOS reminders. 
+Minimalist command-line reminder manager that interacts with MacOS reminders. 
 
 ## Unit tests
 
