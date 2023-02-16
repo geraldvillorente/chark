@@ -1,4 +1,4 @@
-# chark (char-kee)
+# chark (char-keey)
 
 ![image](https://user-images.githubusercontent.com/820842/219251559-da832fae-4819-432e-a208-b00ce4d91da3.png)
 
